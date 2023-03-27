@@ -1,0 +1,110 @@
+{
+  "clientes": [
+    {
+      "id": "ca53d0c6-edd6-4e3c-bf81-6157e9d7d646",
+      "nome": "jorge",
+      "sobrenome": "silva",
+      "cpf": "47398423861",
+      "telefone": "43243243243",
+      "endereco": {
+        "rua": "Rodovia José Simões Louro Júnior",
+        "numero": null,
+        "bairro": "Penteado",
+        "cidade": "Embu-Guaçu",
+        "estado": "SP",
+        "cep": "06924-760",
+        "complemento": null
+      },
+      "email": "jorge@jorgeq.com"
+    },
+    {
+      "id": "36a79061-a317-4258-92fb-abee32908425",
+      "nome": "FABIO",
+      "sobrenome": "COUTUA",
+      "cpf": "473.984.238-61",
+      "telefone": "(11)99802-9090",
+      "endereco": {
+        "rua": "Rodovia José Simões Louro Júnior",
+        "numero": "22323232",
+        "bairro": "Penteado",
+        "cidade": "Embu-Guaçu",
+        "estado": "SP",
+        "cep": "06924-760",
+        "complemento": "Km 50, mercado paraíba"
+      },
+      "email": "teste@teste.com"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "25d744de-0212-42c3-b430-4f43643e3e7f",
+      "nome": "teste",
+      "url": "https://acaonsfatima.org.br/wp-content/uploads/2021/09/informatica-conteudo-pagina-1.png",
+      "descricao": "desc",
+      "preco": 1,
+      "quantidade_estoque": 11,
+      "categoria": null,
+      "criacao": "2023-2-24"
+    },
+    {
+      "id": "e7762fbb-9037-4ecc-9acd-732374360bf6",
+      "nome": "teste 2",
+      "url": "https://acaonsfatima.org.br/wp-content/uploads/2021/09/informatica-conteudo-pagina-1.png",
+      "descricao": "desc",
+      "preco": 2,
+      "quantidade_estoque": 22,
+      "categoria": 1,
+      "criacao": "2023-2-24"
+    },
+    {
+      "id": "73647107-893d-4514-852a-a98912933fd7",
+      "nome": "teste 3",
+      "url": "",
+      "descricao": "desc",
+      "preco": 3,
+      "quantidade_estoque": 33,
+      "categoria": 3,
+      "criacao": "2023-2-24"
+    },
+    {
+      "id": "89f4b55e-6a72-43a8-bd4b-9198291dc05a",
+      "nome": "teste 4",
+      "url": "https://acaonsfatima.org.br/wp-content/uploads/2021/09/informatica-conteudo-pagina-1.png",
+      "descricao": "teste",
+      "preco": 12,
+      "quantidade_estoque": 2,
+      "categoria": "2",
+      "criacao": "2023-03-08"
+    },
+    {
+      "id": "01a3757a-7358-4ffa-bf15-5b36f8e0ad47",
+      "nome": "Moto g teste",
+      "descricao": "cel",
+      "preco": 12,
+      "quantidade_estoque": 12,
+      "categoria": "2",
+      "url": "dsasd",
+      "criacao": "2023-03-24"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "de68771d-fccb-4912-a353-dd4dddeef138",
+      "nome": "categoria 1",
+      "criacao": "2023-03-24",
+      "status": "Ativa"
+    },
+    {
+      "id": "445d7bdf-ff1e-457a-a597-05fe372229fa",
+      "nome": "categoria 2",
+      "criacao": "2023-03-24",
+      "status": "Ativa"
+    },
+    {
+      "id": "d1fe6ea1-3435-4730-ad39-965ce6874db6",
+      "nome": "categoria 3",
+      "criacao": "2023-03-24",
+      "status": "Ativa"
+    }
+  ]
+}
